@@ -1,3 +1,3 @@
 # palisoc_mobprog
 
-A new Flutter project.
+Setting up the Flutter development environment presented several challenges, including configuring environment variables, installing the Android SDK, and setting up an emulator. The flutter doctor command was essential for identifying and resolving missing dependencies and configuration issues. Through troubleshooting, reviewing error logs, and consulting the official Flutter documentation, I gained a better understanding of the Flutter toolchain and its requirements. This experience highlighted the importance of proper setup procedures, regular environment checks, and maintaining updated development tools to ensure a smoother development workflow in future projects.
